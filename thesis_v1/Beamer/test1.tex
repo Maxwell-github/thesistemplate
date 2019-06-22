@@ -1,0 +1,20 @@
+\documentclass{beamer}
+\setbeamercovered{transparent}
+\begin{document}
+\begin{frame}
+Shown on first slide.
+\onslide<2-3>
+Shown on second and third slide.
+\begin{itemize}
+\item
+Still shown on the second and third slide.
+\onslide+<4->
+\item
+Shown from slide 4 on.
+\end{itemize}
+Shown from slide 4 on.
+\onslide
+Shown on all slides.
+\end{frame}
+
+\end{document}

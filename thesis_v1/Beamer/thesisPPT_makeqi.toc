@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{研究背景}{3}{0}{1}
+\beamer@sectionintoc {2}{研究内容}{18}{0}{2}
+\beamer@subsectionintoc {2}{1}{\unhbox \voidb@x \hbox {SOI}刻蚀中的显色特性研究}{18}{0}{2}
+\beamer@subsectionintoc {2}{2}{自脉冲\unhbox \voidb@x \hbox {DFB}激光器及其应用}{43}{0}{2}
+\beamer@subsectionintoc {2}{3}{\unhbox \voidb@x \hbox {EDG}光谱仪的设计优化与制作}{80}{0}{2}
+\beamer@sectionintoc {3}{总结与展望}{99}{0}{3}

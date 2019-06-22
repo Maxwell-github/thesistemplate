@@ -1,0 +1,847 @@
+\begin{thebibliography}{100}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{zuffada2012industrialization}
+\bibauthor{ZUFFADA M}\@. \bibtitle{The industrialization of the silicon
+  photonics: technology road map and applications}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2012 Proceedings of the ESSCIRC (ESSCIRC)}\@.
+  \bibyear{2012}\thinspace{}\textnormal{:
+  }\bibpages{7\thinspace{}\textnormal{--}\thinspace{}13}\@.
+
+\bibitem{miller1969integrated}
+\bibauthor{MILLER S~E}\@. \bibtitle{Integrated optics: An
+  introduction}\bibmark{[J]}\@. \bibjournal{Bell System Technical Journal}\@,
+  \bibyear{1969}\@, \bibvolume{48}\bibnumber{(7)}\thinspace{}\textnormal{:
+  }\bibpages{2059\thinspace{}\textnormal{--}\thinspace{}2069}\@.
+
+\bibitem{ma2017demonstration}
+\bibauthor{MA K\@, SHAHIN M\@, ABBASI A, et~al}\@. \bibtitle{Demonstration of
+  InP-on-Si self-pulsating DFB laser diodes for optical microwave
+  generation}\bibmark{[J]}\@. \bibjournal{IEEE Photonics Journal}\@,
+  \bibyear{2017}\@, \bibvolume{9}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}8}\@.
+
+\bibitem{fang2006electrically}
+\bibauthor{FANG A~W\@, PARK H\@, COHEN O, et~al}\@. \bibtitle{Electrically
+  pumped hybrid AlGaInAs-silicon evanescent laser}\bibmark{[J]}\@.
+  \bibjournal{Optics express}\@, \bibyear{2006}\@,
+  \bibvolume{14}\bibnumber{(20)}\thinspace{}\textnormal{:
+  }\bibpages{9203\thinspace{}\textnormal{--}\thinspace{}9210}\@.
+
+\bibitem{manipatruni2007high}
+\bibauthor{MANIPATRUNI S\@, XU Q\@, SCHMIDT B, et~al}\@. \bibtitle{High speed
+  carrier injection 18 Gb/s silicon micro-ring electro-optic
+  modulator}\bibmark{[C]} //\thinspace{}\bibbooktitle{Lasers and Electro-Optics
+  Society, 2007. LEOS 2007. The 20th Annual Meeting of the IEEE}\@.
+  \bibyear{2007}\thinspace{}\textnormal{:
+  }\bibpages{537\thinspace{}\textnormal{--}\thinspace{}538}\@.
+
+\bibitem{fujikata201025}
+\bibauthor{FUJIKATA J\@, USHIDA J\@, NAKAMURA T, et~al}\@. \bibtitle{25 GHz
+  operation of silicon optical modulator with projection MOS
+  structure}\bibmark{[C]} //\thinspace{}\bibbooktitle{Optical Fiber
+  Communication Conference}\@. \bibyear{2010}\thinspace{}\textnormal{:
+  }\bibpages{OMI3}\@.
+
+\bibitem{xiao201360}
+\bibauthor{XIAO X\@, XU H\@, LI X, et~al}\@. \bibtitle{60 Gbit/s silicon
+  modulators with enhanced electro-optical efficiency}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Optical Fiber Communication Conference}\@.
+  \bibyear{2013}\thinspace{}\textnormal{:
+  }\bibpages{OW4J\thinspace{}\textnormal{--}\thinspace{}3}\@.
+
+\bibitem{moss2013new}
+\bibauthor{MOSS D~J\@, MORANDOTTI R\@, GAETA A~L, et~al}\@. \bibtitle{New
+  CMOS-compatible platforms based on silicon nitride and Hydex for nonlinear
+  optics}\bibmark{[J]}\@. \bibjournal{Nature photonics}\@, \bibyear{2013}\@,
+  \bibvolume{7}\bibnumber{(8)}\thinspace{}\textnormal{: }\bibpages{597}\@.
+
+\bibitem{wang2018integrated}
+\bibauthor{WANG C\@, ZHANG M\@, CHEN X, et~al}\@. \bibtitle{Integrated lithium
+  niobate electro-optic modulators operating at CMOS-compatible
+  voltages}\bibmark{[J]}\@. \bibjournal{Nature}\@, \bibyear{2018}\@,
+  \bibvolume{562}\bibnumber{(7725)}\thinspace{}\textnormal{: }\bibpages{101}\@.
+
+\bibitem{he2019high}
+\bibauthor{HE M\@, XU M\@, REN Y, et~al}\@. \bibtitle{High-performance hybrid
+  silicon and lithium niobate Mach--Zehnder modulators for 100 Gbit s- 1 and
+  beyond}\bibmark{[J]}\@. \bibjournal{Nature Photonics}\@,
+  \bibyear{2019}\thinspace{}\textnormal{: }\bibpages{1}\@.
+
+\bibitem{hslwngzjc}
+\bibauthor{何赛灵，戴道锌}\@.
+  \bibbooktitle{微纳光子集成}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{科学出版社}\@, \bibyear{2010}\@.
+
+\bibitem{soref1985single}
+\bibauthor{SOREF R\@, LORENZO J}\@. \bibtitle{Single-crystal silicon: a new
+  material for 1.3 and 1.6 $\mu$m integrated-optical
+  components}\bibmark{[J]}\@. \bibjournal{Electronics Letters}\@,
+  \bibyear{1985}\@, \bibvolume{21}\bibnumber{(21)}\thinspace{}\textnormal{:
+  }\bibpages{953\thinspace{}\textnormal{--}\thinspace{}954}\@.
+
+\bibitem{reed2005silicon}
+\bibauthor{REED G~T\@, HEADLEY W~R\@, PNG C~J}\@. \bibtitle{Silicon photonics:
+  The early years}\bibmark{[C]} //\thinspace{}\bibbooktitle{Optoelectronic
+  Integration on Silicon II\thinspace{}\textnormal{: }Vol~5730}\@.
+  \bibyear{2005}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}19}\@.
+
+\bibitem{rickman2014commercialization}
+\bibauthor{RICKMAN A}\@. \bibtitle{The commercialization of silicon
+  photonics}\bibmark{[J]}\@. \bibjournal{Nature Photonics}\@, \bibyear{2014}\@,
+  \bibvolume{8}\bibnumber{(8)}\thinspace{}\textnormal{: }\bibpages{579}\@.
+
+\bibitem{liu2005tensile}
+\bibauthor{LIU J\@, CANNON D~D\@, WADA K, et~al}\@. \bibtitle{Tensile strained
+  Ge p-i-n photodetectors on Si platform for C and L band
+  telecommunications}\bibmark{[J]}\@. \bibjournal{Applied physics letters}\@,
+  \bibyear{2005}\@, \bibvolume{87}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{011110}\@.
+
+\bibitem{feng2014micron}
+\bibauthor{FENG D\@, LUFF J\@, JATAR S, et~al}\@. \bibtitle{Micron-scale
+  silicon photonic devices and circuits}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Optical Fiber Communication Conference}\@.
+  \bibyear{2014}\thinspace{}\textnormal{:
+  }\bibpages{Th4C\thinspace{}\textnormal{--}\thinspace{}1}\@.
+
+\bibitem{boeuf2015recent}
+\bibauthor{BOEUF F\@, CREMER S\@, TEMPORITI E, et~al}\@. \bibtitle{Recent
+  progress in silicon photonics R\&D and manufacturing on 300mm wafer
+  platform}\bibmark{[C]} //\thinspace{}\bibbooktitle{Optical Fiber
+  Communication Conference}\@. \bibyear{2015}\thinspace{}\textnormal{:
+  }\bibpages{W3A\thinspace{}\textnormal{--}\thinspace{}1}\@.
+
+\bibitem{doerr2014single}
+\bibauthor{DOERR C~R\@, CHEN L\@, VERMEULEN D, et~al}\@. \bibtitle{Single-chip
+  silicon photonics 100-Gb/s coherent transceiver}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Optical Fiber Communication Conference}\@.
+  \bibyear{2014}\thinspace{}\textnormal{:
+  }\bibpages{Th5C\thinspace{}\textnormal{--}\thinspace{}1}\@.
+
+\bibitem{otterstrom2018silicon}
+\bibauthor{OTTERSTROM N~T\@, BEHUNIN R~O\@, KITTLAUS E~A, et~al}\@. \bibtitle{A
+  silicon Brillouin laser}\bibmark{[J]}\@. \bibjournal{Science}\@,
+  \bibyear{2018}\@, \bibvolume{360}\bibnumber{(6393)}\thinspace{}\textnormal{:
+  }\bibpages{1113\thinspace{}\textnormal{--}\thinspace{}1116}\@.
+
+\bibitem{rong2007low}
+\bibauthor{RONG H\@, XU S\@, KUO Y-H, et~al}\@. \bibtitle{Low-threshold
+  continuous-wave Raman silicon laser}\bibmark{[J]}\@. \bibjournal{Nature
+  Photonics}\@, \bibyear{2007}\@,
+  \bibvolume{1}\bibnumber{(4)}\thinspace{}\textnormal{: }\bibpages{232}\@.
+
+\bibitem{wang2015room}
+\bibauthor{WANG Z\@, TIAN B\@, PANTOUVAKI M, et~al}\@.
+  \bibtitle{Room-temperature InP distributed feedback laser array directly
+  grown on silicon}\bibmark{[J]}\@. \bibjournal{Nature Photonics}\@,
+  \bibyear{2015}\@, \bibvolume{9}\bibnumber{(12)}\thinspace{}\textnormal{:
+  }\bibpages{837}\@.
+
+\bibitem{keyvaninia2013demonstration}
+\bibauthor{KEYVANINIA S\@, ROELKENS G\@, VAN~THOURHOUT D, et~al}\@.
+  \bibtitle{Demonstration of a heterogeneously integrated III-V/SOI single
+  wavelength tunable laser}\bibmark{[J]}\@. \bibjournal{Optics express}\@,
+  \bibyear{2013}\@, \bibvolume{21}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{3784\thinspace{}\textnormal{--}\thinspace{}3792}\@.
+
+\bibitem{zilkie2012power}
+\bibauthor{ZILKIE A\@, SEDDIGHIAN P\@, BIJLANI B, et~al}\@.
+  \bibtitle{Power-efficient III-V/Silicon external cavity DBR
+  lasers}\bibmark{[J]}\@. \bibjournal{Optics express}\@, \bibyear{2012}\@,
+  \bibvolume{20}\bibnumber{(21)}\thinspace{}\textnormal{:
+  }\bibpages{23456\thinspace{}\textnormal{--}\thinspace{}23462}\@.
+
+\bibitem{heck2013hybrid}
+\bibauthor{HECK M~J\@, BAUTERS J~F\@, DAVENPORT M~L, et~al}\@. \bibtitle{Hybrid
+  silicon photonic integrated circuit technology}\bibmark{[J]}\@.
+  \bibjournal{IEEE J. Sel. Top. Quantum Electron}\@, \bibyear{2013}\@,
+  \bibvolume{19}\bibnumber{(4)}\thinspace{}\textnormal{: }\bibpages{6100117}\@.
+
+\bibitem{keyvaninia2013heterogeneously}
+\bibauthor{KEYVANINIA S\@, VERSTUYFT S\@, VAN~LANDSCHOOT L, et~al}\@.
+  \bibtitle{Heterogeneously integrated III-V/silicon distributed feedback
+  lasers}\bibmark{[J]}\@. \bibjournal{Optics letters}\@, \bibyear{2013}\@,
+  \bibvolume{38}\bibnumber{(24)}\thinspace{}\textnormal{:
+  }\bibpages{5434\thinspace{}\textnormal{--}\thinspace{}5437}\@.
+
+\bibitem{bowers2014path}
+\bibauthor{BOWERS J\@, BOVINGTON J\@, LIU A, et~al}\@. \bibtitle{A path to 300
+  mm heterogeneous silicon photonic integrated circuits}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Optical Fiber Communication Conference, OSA
+  Technical Digest (online)(Optical Society of America, 2014), paper
+  Th1C\thinspace{}\textnormal{: }Vol~1}\@. \bibyear{2014}\@.
+
+\bibitem{liu2015reliability}
+\bibauthor{LIU A~Y\@, HERRICK R~W\@, UEDA O, et~al}\@. \bibtitle{Reliability of
+  InAs/GaAs quantum dot lasers epitaxially grown on silicon}\bibmark{[J]}\@.
+  \bibjournal{IEEE Journal of Selected Topics in Quantum Electronics}\@,
+  \bibyear{2015}\@, \bibvolume{21}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{690\thinspace{}\textnormal{--}\thinspace{}697}\@.
+
+\bibitem{sun2016room}
+\bibauthor{SUN Y\@, ZHOU K\@, SUN Q, et~al}\@. \bibtitle{Room-temperature
+  continuous-wave electrically injected InGaN-based laser directly grown on
+  Si}\bibmark{[J]}\@. \bibjournal{Nature Photonics}\@, \bibyear{2016}\@,
+  \bibvolume{10}\bibnumber{(9)}\thinspace{}\textnormal{: }\bibpages{595}\@.
+
+\bibitem{asghari2011silicon}
+\bibauthor{ASGHARI M\@, KRISHNAMOORTHY A~V}\@. \bibtitle{Silicon photonics:
+  Energy-efficient communication}\bibmark{[J]}\@. \bibjournal{Nature
+  photonics}\@, \bibyear{2011}\@,
+  \bibvolume{5}\bibnumber{(5)}\thinspace{}\textnormal{: }\bibpages{268}\@.
+
+\bibitem{jalali2006silicon}
+\bibauthor{JALALI B\@, FATHPOUR S}\@. \bibtitle{Silicon
+  photonics}\bibmark{[J]}\@. \bibjournal{Journal of lightwave technology}\@,
+  \bibyear{2006}\@, \bibvolume{24}\bibnumber{(12)}\thinspace{}\textnormal{:
+  }\bibpages{4600\thinspace{}\textnormal{--}\thinspace{}4615}\@.
+
+\bibitem{liang2010hybrid}
+\bibauthor{LIANG D\@, ROELKENS G\@, BAETS R, et~al}\@. \bibtitle{Hybrid
+  integrated platforms for silicon photonics}\bibmark{[J]}\@.
+  \bibjournal{Materials}\@, \bibyear{2010}\@,
+  \bibvolume{3}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{1782\thinspace{}\textnormal{--}\thinspace{}1802}\@.
+
+\bibitem{roelkens2010iii}
+\bibauthor{ROELKENS G\@, LIU L\@, LIANG D, et~al}\@. \bibtitle{III-V/silicon
+  photonics for on-chip and intra-chip optical interconnects}\bibmark{[J]}\@.
+  \bibjournal{Laser \& Photonics Reviews}\@, \bibyear{2010}\@,
+  \bibvolume{4}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{751\thinspace{}\textnormal{--}\thinspace{}779}\@.
+
+\bibitem{liang2010recent}
+\bibauthor{LIANG D\@, BOWERS J~E}\@. \bibtitle{Recent progress in lasers on
+  silicon}\bibmark{[J]}\@. \bibjournal{Nature photonics}\@, \bibyear{2010}\@,
+  \bibvolume{4}\bibnumber{(8)}\thinspace{}\textnormal{: }\bibpages{511}\@.
+
+\bibitem{duan2014hybrid}
+\bibauthor{DUAN G-H\@, JANY C\@, LE~LIEPVRE A, et~al}\@. \bibtitle{Hybrid
+  III--V on Silicon Lasers for Photonic Integrated Circuits on
+  Silicon}\bibmark{[J]}\@. \bibjournal{IEEE Journal of selected topics in
+  quantum electronics}\@, \bibyear{2014}\@,
+  \bibvolume{20}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{158\thinspace{}\textnormal{--}\thinspace{}170}\@.
+
+\bibitem{yariv2016rethinking}
+\bibauthor{YARIV A}\@. \bibtitle{Rethinking and redesigning the semiconductor
+  laser/quantum noise controlled semiconductor lasers}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Optical Fiber Communication Conference}\@.
+  \bibyear{2016}\thinspace{}\textnormal{:
+  }\bibpages{M2C\thinspace{}\textnormal{--}\thinspace{}3}\@.
+
+\bibitem{capmany2007microwave}
+\bibauthor{CAPMANY J\@, NOVAK D}\@. \bibtitle{Microwave photonics combines two
+  worlds}\bibmark{[J]}\@. \bibjournal{Nature photonics}\@, \bibyear{2007}\@,
+  \bibvolume{1}\bibnumber{(6)}\thinspace{}\textnormal{: }\bibpages{319}\@.
+
+\bibitem{seeds2002microwave}
+\bibauthor{SEEDS A~J}\@. \bibtitle{Microwave photonics}\bibmark{[J]}\@.
+  \bibjournal{IEEE Transactions on Microwave Theory and Techniques}\@,
+  \bibyear{2002}\@, \bibvolume{50}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{877\thinspace{}\textnormal{--}\thinspace{}887}\@.
+
+\bibitem{seeds2006microwave}
+\bibauthor{SEEDS A~J\@, WILLIAMS K~J}\@. \bibtitle{Microwave
+  photonics}\bibmark{[J]}\@. \bibjournal{Journal of Lightwave Technology}\@,
+  \bibyear{2006}\@, \bibvolume{24}\bibnumber{(12)}\thinspace{}\textnormal{:
+  }\bibpages{4628\thinspace{}\textnormal{--}\thinspace{}4641}\@.
+
+\bibitem{yao2009microwave}
+\bibauthor{YAO J}\@. \bibtitle{Microwave photonics}\bibmark{[J]}\@.
+  \bibjournal{Journal of Lightwave Technology}\@, \bibyear{2009}\@,
+  \bibvolume{27}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{314\thinspace{}\textnormal{--}\thinspace{}335}\@.
+
+\bibitem{marpaung2013integrated}
+\bibauthor{MARPAUNG D\@, ROELOFFZEN C\@, HEIDEMAN R, et~al}\@.
+  \bibtitle{Integrated microwave photonics}\bibmark{[J]}\@. \bibjournal{Laser
+  \& Photonics Reviews}\@, \bibyear{2013}\@,
+  \bibvolume{7}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{506\thinspace{}\textnormal{--}\thinspace{}538}\@.
+
+\bibitem{huang2016low}
+\bibauthor{HUANG Q\@, WU Y\@, MA K, et~al}\@. \bibtitle{Low driving voltage
+  band-filling-based III-V-on-silicon electroabsorption
+  modulator}\bibmark{[J]}\@. \bibjournal{Applied Physics Letters}\@,
+  \bibyear{2016}\@, \bibvolume{108}\bibnumber{(14)}\thinspace{}\textnormal{:
+  }\bibpages{141104}\@.
+
+\bibitem{cambustionndir}
+\bibtitle{NDIR detector}\bibmark{[EB/OL]}\@. \bibpublisher{Cambustion}\@,
+  \bibyear{2018} \bibcitedate{[2019/1/8]}\@.
+  \newline\url{https://www.cambustion.com/products/ndir500/operating-principle}\@.
+
+\bibitem{ttt2005jcgx}
+\bibauthor{唐天同\@, 王兆宏}\@.
+  \bibbooktitle{集成光学}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{科学出版社}\@, \bibyear{2005}\@.
+
+\bibitem{okamoto2006fundamentals}
+\bibauthor{OKAMOTO K}\@. \bibbooktitle{Fundamentals of optical
+  waveguides}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Academic press}\@, \bibyear{2006}\@.
+
+\bibitem{stern1988semivectorial}
+\bibauthor{STERN M}\@. \bibtitle{Semivectorial polarised finite difference
+  method for optical waveguides with arbitrary index profiles}\bibmark{[J]}\@.
+  \bibjournal{IEE Proceedings J (Optoelectronics)}\@, \bibyear{1988}\@,
+  \bibvolume{135}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{56\thinspace{}\textnormal{--}\thinspace{}63}\@.
+
+\bibitem{jin2015finite}
+\bibauthor{JIN J-M}\@. \bibbooktitle{The finite element method in
+  electromagnetics}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{John Wiley \&
+  Sons}\@, \bibyear{2015}\@.
+
+\bibitem{modesolution}
+\bibauthor{LUMERICAL}\@. \bibtitle{{Lumerical MODE
+  Solutions}}\bibmark{[EB/OL]}\@. \bibpublisher{{Lumerical Solution}}\@,
+  \bibyear{2018} \bibcitedate{[2018/9/26]}\@.
+  \newline\url{https://www.lumerical.com/tcad-products/mode/}\@.
+
+\bibitem{comsol}
+\bibtitle{{COMSOL Multiphysics}}\bibmark{[EB/OL]}\@. \bibyear{2018}
+  \bibcitedate{[2018/9/26]}\@. \newline\url{https://www.comsol.com}\@.
+
+\bibitem{van1981beam}
+\bibauthor{VAN~ROEY J\@, Van~der DONK J\@, LAGASSE P}\@.
+  \bibtitle{Beam-propagation method: analysis and assessment}\bibmark{[J]}\@.
+  \bibjournal{Josa}\@, \bibyear{1981}\@,
+  \bibvolume{71}\bibnumber{(7)}\thinspace{}\textnormal{:
+  }\bibpages{803\thinspace{}\textnormal{--}\thinspace{}810}\@.
+
+\bibitem{gallagher2003eigenmode}
+\bibauthor{GALLAGHER D~F\@, FELICI T~P}\@. \bibtitle{Eigenmode expansion
+  methods for simulation of optical propagation in photonics: pros and
+  cons}\bibmark{[C]} //\thinspace{}\bibbooktitle{Integrated Optics: Devices,
+  Materials, and Technologies VII\thinspace{}\textnormal{: }Vol~4987}\@.
+  \bibyear{2003}\thinspace{}\textnormal{:
+  }\bibpages{69\thinspace{}\textnormal{--}\thinspace{}83}\@.
+
+\bibitem{yee1966numerical}
+\bibauthor{YEE K}\@. \bibtitle{Numerical solution of initial boundary value
+  problems involving Maxwell's equations in isotropic media}\bibmark{[J]}\@.
+  \bibjournal{IEEE Transactions on antennas and propagation}\@,
+  \bibyear{1966}\@, \bibvolume{14}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{302\thinspace{}\textnormal{--}\thinspace{}307}\@.
+
+\bibitem{fdtdsolution}
+\bibauthor{LUMERICAL}\@. \bibtitle{{Lumerical FDTD
+  Solutions}}\bibmark{[EB/OL]}\@. \bibpublisher{{Lumerical Solution}}\@,
+  \bibyear{2016} \bibcitedate{[2018/9/27]}\@.
+  \newline\url{https://www.lumerical.com/tcad-products/fdtd/}\@.
+
+\bibitem{numai2015fundamentals}
+\bibauthor{NUMAI T}\@. \bibtitle{Fundamentals of semiconductor
+  lasers}\bibmark{[G]} //\thinspace{}\bibbooktitle{Fundamentals of
+  Semiconductor Lasers}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Springer}\@, \bibyear{2015}\thinspace{}\textnormal{:
+  }\bibpages{89\thinspace{}\textnormal{--}\thinspace{}186}\@.
+
+\bibitem{suhara2004semiconductor}
+\bibauthor{SUHARA T}\@. \bibbooktitle{Semiconductor laser
+  fundamentals}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{CRC press}\@, \bibyear{2004}\@.
+
+\bibitem{kogelnik1971stimulated}
+\bibauthor{KOGELNIK H\@, SHANK C}\@. \bibtitle{Stimulated emission in a
+  periodic structure}\bibmark{[J]}\@. \bibjournal{Applied Physics Letters}\@,
+  \bibyear{1971}\@, \bibvolume{18}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{152\thinspace{}\textnormal{--}\thinspace{}154}\@.
+
+\bibitem{kogelnik1972coupled}
+\bibauthor{KOGELNIK H\@, SHANK C}\@. \bibtitle{Coupled-wave theory of
+  distributed feedback lasers}\bibmark{[J]}\@. \bibjournal{Journal of applied
+  physics}\@, \bibyear{1972}\@,
+  \bibvolume{43}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{2327\thinspace{}\textnormal{--}\thinspace{}2335}\@.
+
+\bibitem{nakamura1973optically}
+\bibauthor{NAKAMURA M\@, YARIV A\@, YEN H, et~al}\@. \bibtitle{Optically pumped
+  GaAs surface laser with corrugation feedback}\bibmark{[J]}\@.
+  \bibjournal{Applied Physics Letters}\@, \bibyear{1973}\@,
+  \bibvolume{22}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{515\thinspace{}\textnormal{--}\thinspace{}516}\@.
+
+\bibitem{nakamura1974gaas}
+\bibauthor{NAKAMURA M~V\@, AIKI K\@, UMEDA J-I, et~al}\@. \bibtitle{GaAs--Ga1-
+  x Al x As double-heterostructure distributed-feedback diode
+  lasers}\bibmark{[J]}\@. \bibjournal{Applied Physics Letters}\@,
+  \bibyear{1974}\@, \bibvolume{25}\bibnumber{(9)}\thinspace{}\textnormal{:
+  }\bibpages{487\thinspace{}\textnormal{--}\thinspace{}488}\@.
+
+\bibitem{nakamura1975cw}
+\bibauthor{NAKAMURA M\@, AIKI K\@, UMEDA J, et~al}\@. \bibtitle{CW operation of
+  distributed-feedback GaAs-GaAlAs diode lasers at temperatures up to 300
+  K}\bibmark{[J]}\@. \bibjournal{Applied Physics Letters}\@, \bibyear{1975}\@,
+  \bibvolume{27}\bibnumber{(7)}\thinspace{}\textnormal{:
+  }\bibpages{403\thinspace{}\textnormal{--}\thinspace{}405}\@.
+
+\bibitem{morthier2013handbook}
+\bibauthor{MORTHIER G\@, VANKWIKELBERGE P}\@. \bibbooktitle{Handbook of
+  distributed feedback laser diodes}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Artech House}\@,
+  \bibyear{2013}\@.
+
+\bibitem{shockley1952statistics}
+\bibauthor{SHOCKLEY W\@, READ~JR W}\@. \bibtitle{Statistics of the
+  recombinations of holes and electrons}\bibmark{[J]}\@. \bibjournal{Physical
+  review}\@, \bibyear{1952}\@,
+  \bibvolume{87}\bibnumber{(5)}\thinspace{}\textnormal{: }\bibpages{835}\@.
+
+\bibitem{olshansky1984measurement}
+\bibauthor{OLSHANSKY R\@, SU C\@, MANNING J, et~al}\@. \bibtitle{Measurement of
+  radiative and nonradiative recombination rates in InGaAsP and AlGaAs light
+  sources}\bibmark{[J]}\@. \bibjournal{IEEE journal of quantum electronics}\@,
+  \bibyear{1984}\@, \bibvolume{20}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{838\thinspace{}\textnormal{--}\thinspace{}854}\@.
+
+\bibitem{agrawal1986long}
+\bibauthor{AGRAWAL G~P\@, DUTTA N~K}\@. \bibbooktitle{Long wavelength
+  semiconductor lasers}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Van Nostrand
+  Reinhold Co. Inc., New York, NY}\@, \bibyear{1986}\@.
+
+\bibitem{dexiu1999}
+\bibauthor{黄德修\@, 刘雪峰}\@.
+  \bibbooktitle{半导体激光器及其应用}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{国防工业出版社}\@, \bibyear{1999}\@.
+
+\bibitem{petermann2012laser}
+\bibauthor{PETERMANN K}\@. \bibbooktitle{Laser diode modulation and
+  noise\thinspace{}\textnormal{: }Vol~3}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Springer Science
+  \& Business Media}\@, \bibyear{2012}\@.
+
+\bibitem{huybrechts2010digital}
+\bibauthor{HUYBRECHTS K}\@. \bibtitle{Digital Photonics Using Single Laser
+  Diodes for All-Optical Network Nodes}\bibmark{[J]}\@, \bibyear{2010}\@.
+
+\bibitem{plossl1999wafer}
+\bibauthor{PL{\"O}{SS}L A\@, KR{\"A}UTER G}\@. \bibtitle{Wafer direct bonding:
+  tailoring adhesion between brittle materials}\bibmark{[J]}\@.
+  \bibjournal{Materials Science and Engineering: R: Reports}\@,
+  \bibyear{1999}\@, \bibvolume{25}\bibnumber{(1-2)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}88}\@.
+
+\bibitem{rai1997handbook}
+\bibauthor{RAI-CHOUDHURY P}\@. \bibbooktitle{Handbook of microlithography,
+  micromachining, and microfabrication:
+  microlithography\thinspace{}\textnormal{: }Vol~1}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Iet}\@,
+  \bibyear{1997}\@.
+
+\bibitem{liu2016silicon}
+\bibauthor{LIU L\@, ZHANG J\@, ZHANG C, et~al}\@. \bibtitle{Silicon waveguide
+  grating coupler for perfectly vertical fiber based on a tilted membrane
+  structure}\bibmark{[J]}\@. \bibjournal{Optics letters}\@, \bibyear{2016}\@,
+  \bibvolume{41}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{820\thinspace{}\textnormal{--}\thinspace{}823}\@.
+
+\bibitem{dumon2004low}
+\bibauthor{DUMON P\@, BOGAERTS W\@, VAN~CAMPENHOUT J, et~al}\@.
+  \bibtitle{Low-loss photonic wires and compact ring resonators in
+  silicon-on-insulator}\bibmark{[C]} //\thinspace{}\bibbooktitle{Photonic
+  Crystal Materials and Nanostructures\thinspace{}\textnormal{: }Vol~5450}\@.
+  \bibyear{2004}\thinspace{}\textnormal{:
+  }\bibpages{360\thinspace{}\textnormal{--}\thinspace{}369}\@.
+
+\bibitem{zou201560}
+\bibauthor{ZOU Z\@, ZHOU L\@, LI X, et~al}\@. \bibtitle{60-nm-thick basic
+  photonic components and Bragg gratings on the silicon-on-insulator
+  platform}\bibmark{[J]}\@. \bibjournal{Optics express}\@, \bibyear{2015}\@,
+  \bibvolume{23}\bibnumber{(16)}\thinspace{}\textnormal{:
+  }\bibpages{20784\thinspace{}\textnormal{--}\thinspace{}20795}\@.
+
+\bibitem{jansen1997bsm}
+\bibauthor{JANSEN H\@, de BOER M\@, WIEGERINK R, et~al}\@. \bibtitle{BSM 7: RIE
+  lag in high aspect ratio trench etching of silicon}\bibmark{[J]}\@.
+  \bibjournal{Microelectronic Engineering}\@, \bibyear{1997}\@,
+  \bibvolume{35}\bibnumber{(1-4)}\thinspace{}\textnormal{:
+  }\bibpages{45\thinspace{}\textnormal{--}\thinspace{}50}\@.
+
+\bibitem{li2017low}
+\bibauthor{LI C\@, DAI D}\@. \bibtitle{Low-loss and low-crosstalk multi-channel
+  mode (de) multiplexer with ultrathin silicon waveguides}\bibmark{[J]}\@.
+  \bibjournal{Optics letters}\@, \bibyear{2017}\@,
+  \bibvolume{42}\bibnumber{(12)}\thinspace{}\textnormal{:
+  }\bibpages{2370\thinspace{}\textnormal{--}\thinspace{}2373}\@.
+
+\bibitem{fard2014performance}
+\bibauthor{FARD S~T\@, DONZELLA V\@, SCHMIDT S~A, et~al}\@.
+  \bibtitle{Performance of ultra-thin SOI-based resonators for sensing
+  applications}\bibmark{[J]}\@. \bibjournal{Optics express}\@,
+  \bibyear{2014}\@, \bibvolume{22}\bibnumber{(12)}\thinspace{}\textnormal{:
+  }\bibpages{14166\thinspace{}\textnormal{--}\thinspace{}14179}\@.
+
+\bibitem{wang2017continuously}
+\bibauthor{WANG X\@, ZHOU L\@, LI R, et~al}\@. \bibtitle{Continuously tunable
+  ultra-thin silicon waveguide optical delay line}\bibmark{[J]}\@.
+  \bibjournal{Optica}\@, \bibyear{2017}\@,
+  \bibvolume{4}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{507\thinspace{}\textnormal{--}\thinspace{}515}\@.
+
+\bibitem{microchemicals}
+\bibauthor{MICROCHEMICALS}\@. \bibtitle{Silicon, Quartz and Glass
+  Wafers}\bibmark{[EB/OL]}\@. \bibpublisher{MicroChemicals}\@, \bibyear{2018}
+  \bibcitedate{[2018/10/06]}\@. \newline\url{https://www.microchemicals.com}\@.
+
+\bibitem{taillaert2004compact}
+\bibauthor{TAILLAERT D\@, BIENSTMAN P\@, BAETS R}\@. \bibtitle{Compact
+  efficient broadband grating coupler for silicon-on-insulator
+  waveguides}\bibmark{[J]}\@. \bibjournal{Optics letters}\@, \bibyear{2004}\@,
+  \bibvolume{29}\bibnumber{(23)}\thinspace{}\textnormal{:
+  }\bibpages{2749\thinspace{}\textnormal{--}\thinspace{}2751}\@.
+
+\bibitem{ydy2011gcgx}
+\bibauthor{郁道银，谈恒英}\@.
+  \bibbooktitle{工程光学}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{机械工业出版社}\@, \bibyear{2011}\@.
+
+\bibitem{lxt2007jhgx}
+\bibauthor{李晓彤，岑兆丰}\@.
+  \bibbooktitle{几何光学·相差·光学设计}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{浙江大学出版社}\@, \bibyear{2007}\@.
+
+\bibitem{webvision}
+\bibauthor{HELGA K\@, EDUARDO F\@, RALPH N, et~al}\@. \bibbooktitle{The
+  Organization of the Retina and Visual System}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{On line Book}\@,
+  \@.
+
+\bibitem{hunt1995reproduction}
+\bibauthor{HUNT R\@, WILLIAM G\@, WRIGHT W~D}\@. \bibbooktitle{The reproduction
+  of colour\thinspace{}\textnormal{: }Vol~5}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Fountain Press
+  England}\@, \bibyear{1995}\@.
+
+\bibitem{wikicie1931}
+\bibmark{[EB/OL]}\@. \bibpublisher{Wikipedia}\@,  \bibcitedate{[2019/1/8]}\@.
+  \newline\url{https://en.wikipedia.org/wiki/CIE_1931_color_space}\@.
+
+\bibitem{international1999iec}
+\bibauthor{COMMISSION I~E\@, OTHERS}\@. \bibtitle{IEC 61966-2-1: Multimedia
+  systems and equipment-Colour measurement and management-Part 2-1: Colour
+  management-Default RGB colour space-sRGB}\bibmark{[J]}\@. \bibjournal{Geneva,
+  Switzerland: International Electrotechnical Commission}\@, \bibyear{1999}\@.
+
+\bibitem{sunspectrum}
+\bibauthor{LABORATORY N~R~E}\@. \bibtitle{ASTM G173-03 Reference Spectra
+  Derived from SMARTS v. 2.9.2 (AM1.5)}\bibmark{[EB/OL]}\@. \bibyear{2018}
+  \bibcitedate{[2018/10/06]}\@. \newline\url{https://www.nrel.gov/}\@.
+
+\bibitem{aspnes1983dielectric}
+\bibauthor{ASPNES D~E\@, STUDNA A}\@. \bibtitle{Dielectric functions and
+  optical parameters of si, ge, gap, gaas, gasb, inp, inas, and insb from 1.5
+  to 6.0 ev}\bibmark{[J]}\@. \bibjournal{Physical review B}\@,
+  \bibyear{1983}\@, \bibvolume{27}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{985}\@.
+
+\bibitem{sartorius1997dispersive}
+\bibauthor{SARTORIUS B\@, MOHRLE M\@, REICHENBACHER S, et~al}\@.
+  \bibtitle{Dispersive self-Q-switching in self-pulsating DFB
+  lasers}\bibmark{[J]}\@. \bibjournal{IEEE journal of quantum electronics}\@,
+  \bibyear{1997}\@, \bibvolume{33}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{211\thinspace{}\textnormal{--}\thinspace{}218}\@.
+
+\bibitem{bandelow1993theory}
+\bibauthor{BANDELOW U\@, WUNSCHE H\@, WENZEL H}\@. \bibtitle{Theory of
+  selfpulsations in two-section DFB lasers}\bibmark{[J]}\@. \bibjournal{IEEE
+  photonics technology letters}\@, \bibyear{1993}\@,
+  \bibvolume{5}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{1176\thinspace{}\textnormal{--}\thinspace{}1179}\@.
+
+\bibitem{marcenac1994distinction}
+\bibauthor{MARCENAC D\@, CARROLL J}\@. \bibtitle{Distinction between multimoded
+  and singlemoded self-pulsations-in DFB lasers}\bibmark{[J]}\@.
+  \bibjournal{Electronics Letters}\@, \bibyear{1994}\@,
+  \bibvolume{30}\bibnumber{(14)}\thinspace{}\textnormal{:
+  }\bibpages{1137\thinspace{}\textnormal{--}\thinspace{}1138}\@.
+
+\bibitem{lowery1994improving}
+\bibauthor{LOWERY A\@, GURNEY P}\@. \bibtitle{Improving pulses from 2-contact
+  self-pulsating DFB semiconductor lasers}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Semiconductor Laser Conference, 1994., 14th IEEE
+  International}\@. \bibyear{1994}\thinspace{}\textnormal{:
+  }\bibpages{103\thinspace{}\textnormal{--}\thinspace{}104}\@.
+
+\bibitem{wenzel1996mechanisms}
+\bibauthor{WENZEL H\@, BANDELOW U\@, WUNSCHE H-J, et~al}\@.
+  \bibtitle{Mechanisms of fast self pulsations in two-section DFB
+  lasers}\bibmark{[J]}\@. \bibjournal{IEEE Journal of Quantum Electronics}\@,
+  \bibyear{1996}\@, \bibvolume{32}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{69\thinspace{}\textnormal{--}\thinspace{}78}\@.
+
+\bibitem{wirths2015lasing}
+\bibauthor{WIRTHS S\@, GEIGER R\@, VON DEN~DRIESCH N, et~al}\@.
+  \bibtitle{Lasing in direct-bandgap GeSn alloy grown on Si}\bibmark{[J]}\@.
+  \bibjournal{Nature photonics}\@, \bibyear{2015}\@,
+  \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{88}\@.
+
+\bibitem{pasquariello2002plasma}
+\bibauthor{PASQUARIELLO D\@, HJORT K}\@. \bibtitle{Plasma-assisted InP-to-Si
+  low temperature wafer bonding}\bibmark{[J]}\@. \bibjournal{IEEE Journal of
+  Selected Topics in Quantum Electronics}\@, \bibyear{2002}\@,
+  \bibvolume{8}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{118\thinspace{}\textnormal{--}\thinspace{}131}\@.
+
+\bibitem{roelkens2007heterogeneous}
+\bibauthor{ROELKENS G\@, BROUCKAERT J\@, VAN~CAMPENHOUT J, et~al}\@.
+  \bibtitle{Heterogeneous III-V/silicon photonics: bonding technology and
+  integrated devices}\bibmark{[C]} //\thinspace{}\bibbooktitle{Annual Workshop
+  of the IEEE/LEOS Benelux Chapter Progress in Optical Devices and
+  Materials}\@. \bibyear{2007}\thinspace{}\textnormal{: }\bibpages{3}\@.
+
+\bibitem{Imec}
+\bibauthor{IMEC-EPIXFAB}\@. \bibtitle{{Europractice Silicon Photonics MPW
+  offer}}\bibmark{[EB/OL]}\@. \bibpublisher{{The EUROPRACTICE Silicon Photonics
+  Support Team}}\@, \bibyear{2016} \bibcitedate{[2018/10/14]}\@.
+  \newline\url{http://www.europractice-ic.com/SiPhotonics\_general.php}\@.
+
+\bibitem{vahala1989optical}
+\bibauthor{VAHALA K~J\@, NEWKIRK M~A\@, CHEN T}\@. \bibtitle{The optical gain
+  lever: A novel gain mechanism in the direct modulation of quantum well
+  semiconductor lasers}\bibmark{[J]}\@. \bibjournal{Applied Physics Letters}\@,
+  \bibyear{1989}\@, \bibvolume{54}\bibnumber{(25)}\thinspace{}\textnormal{:
+  }\bibpages{2506\thinspace{}\textnormal{--}\thinspace{}2508}\@.
+
+\bibitem{wakita1991observation}
+\bibauthor{WAKITA K\@, KOTAKA I\@, MITOMI O, et~al}\@. \bibtitle{Observation of
+  low-chirp modulation in InGaAs-InAlAs multiple-quantum-well optical
+  modulators under 30 GHz}\bibmark{[J]}\@. \bibjournal{IEEE Photonics
+  technology letters}\@, \bibyear{1991}\@,
+  \bibvolume{3}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{138\thinspace{}\textnormal{--}\thinspace{}140}\@.
+
+\bibitem{wei2016realizing}
+\bibauthor{WEI W\@, LIN P\@, KE S, et~al}\@. \bibtitle{Realizing 60 GHz
+  narrow-linewidth photonic microwaves with very low RF driving
+  power}\bibmark{[J]}\@. \bibjournal{Laser Physics Letters}\@,
+  \bibyear{2016}\@, \bibvolume{13}\bibnumber{(12)}\thinspace{}\textnormal{:
+  }\bibpages{126202}\@.
+
+\bibitem{reithmaier2005modulation}
+\bibauthor{REITHMAIER J\@, KAISER W\@, BACH L, et~al}\@. \bibtitle{Modulation
+  speed enhancement by coupling to higher order resonances: a road towards 40
+  GHz bandwidth lasers on InP}\bibmark{[C]} //\thinspace{}\bibbooktitle{Indium
+  Phosphide and Related Materials, 2005. International Conference on}\@.
+  \bibyear{2005}\thinspace{}\textnormal{:
+  }\bibpages{118\thinspace{}\textnormal{--}\thinspace{}123}\@.
+
+\bibitem{brox2003high}
+\bibauthor{BROX O\@, BAUER S\@, RADZIUNAS M, et~al}\@. \bibtitle{High-frequency
+  pulsations in DFB lasers with amplified feedback}\bibmark{[J]}\@.
+  \bibjournal{IEEE journal of Quantum Electronics}\@, \bibyear{2003}\@,
+  \bibvolume{39}\bibnumber{(11)}\thinspace{}\textnormal{:
+  }\bibpages{1381\thinspace{}\textnormal{--}\thinspace{}1387}\@.
+
+\bibitem{tager1994high}
+\bibauthor{TAGER A~A\@, PETERMANN K}\@. \bibtitle{High-frequency oscillations
+  and self-mode locking in short external-cavity laser diodes}\bibmark{[J]}\@.
+  \bibjournal{IEEE Journal of Quantum Electronics}\@, \bibyear{1994}\@,
+  \bibvolume{30}\bibnumber{(7)}\thinspace{}\textnormal{:
+  }\bibpages{1553\thinspace{}\textnormal{--}\thinspace{}1561}\@.
+
+\bibitem{shahin201845}
+\bibauthor{SHAHIN M\@, MA K\@, ABBASI A, et~al}\@. \bibtitle{45 Gb/s Direct
+  Modulation of Two-Section InP-on-Si DFB Laser Diodes}\bibmark{[J]}\@.
+  \bibjournal{IEEE Photonics Technology Letters}\@, \bibyear{2018}\@,
+  \bibvolume{30}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{685\thinspace{}\textnormal{--}\thinspace{}687}\@.
+
+\bibitem{redding2013compact}
+\bibauthor{REDDING B\@, LIEW S~F\@, SARMA R, et~al}\@. \bibtitle{Compact
+  spectrometer based on a disordered photonic chip}\bibmark{[J]}\@.
+  \bibjournal{Nature Photonics}\@, \bibyear{2013}\@,
+  \bibvolume{7}\bibnumber{(9)}\thinspace{}\textnormal{:
+  }\bibpages{746\thinspace{}\textnormal{--}\thinspace{}751}\@.
+
+\bibitem{cheben2007high}
+\bibauthor{CHEBEN P\@, SCHMID J\@, DEL{\^A}GE A, et~al}\@. \bibtitle{A
+  high-resolution silicon-on-insulator arrayed waveguide grating
+  microspectrometer with sub-micrometer aperture waveguides}\bibmark{[J]}\@.
+  \bibjournal{Optics express}\@, \bibyear{2007}\@,
+  \bibvolume{15}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{2299\thinspace{}\textnormal{--}\thinspace{}2306}\@.
+
+\bibitem{fan2018highly}
+\bibauthor{FAN T\@, XIA Z\@, ADIBI A, et~al}\@. \bibtitle{Highly-uniform
+  resonator-based visible spectrometer on a Si 3 N 4 platform with robust and
+  accurate post-fabrication trimming}\bibmark{[J]}\@. \bibjournal{Optics
+  letters}\@, \bibyear{2018}\@,
+  \bibvolume{43}\bibnumber{(20)}\thinspace{}\textnormal{:
+  }\bibpages{4887\thinspace{}\textnormal{--}\thinspace{}4890}\@.
+
+\bibitem{momeni2009integrated}
+\bibauthor{MOMENI B\@, HOSSEINI E~S\@, ASKARI M, et~al}\@. \bibtitle{Integrated
+  photonic crystal spectrometers for sensing applications}\bibmark{[J]}\@.
+  \bibjournal{Optics communications}\@, \bibyear{2009}\@,
+  \bibvolume{282}\bibnumber{(15)}\thinspace{}\textnormal{:
+  }\bibpages{3168\thinspace{}\textnormal{--}\thinspace{}3171}\@.
+
+\bibitem{matos2006arrayed}
+\bibauthor{MATOS O~M\@, CALVO M~L\@, CHEBEN P, et~al}\@. \bibtitle{Arrayed
+  waveguide grating based on group-index modification}\bibmark{[J]}\@.
+  \bibjournal{Journal of lightwave technology}\@, \bibyear{2006}\@,
+  \bibvolume{24}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{1551\thinspace{}\textnormal{--}\thinspace{}1557}\@.
+
+\bibitem{peroz2012multiband}
+\bibauthor{PEROZ C\@, CALO C\@, GOLTSOV A, et~al}\@. \bibtitle{Multiband
+  wavelength demultiplexer based on digital planar holography for on-chip
+  spectroscopy applications}\bibmark{[J]}\@. \bibjournal{Optics letters}\@,
+  \bibyear{2012}\@, \bibvolume{37}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{695\thinspace{}\textnormal{--}\thinspace{}697}\@.
+
+\bibitem{calafiore2014holographic}
+\bibauthor{CALAFIORE G\@, KOSHELEV A\@, DHUEY S, et~al}\@.
+  \bibtitle{Holographic planar lightwave circuit for on-chip
+  spectroscopy}\bibmark{[J]}\@. \bibjournal{Light: Science \& Applications}\@,
+  \bibyear{2014}\@, \bibvolume{3}\bibnumber{(9)}\thinspace{}\textnormal{:
+  }\bibpages{e203}\@.
+
+\bibitem{liu2015densely}
+\bibauthor{LIU L}\@. \bibtitle{Densely packed waveguide array (DPWA) on a
+  silicon chip for mode division multiplexing}\bibmark{[J]}\@.
+  \bibjournal{Optics express}\@, \bibyear{2015}\@,
+  \bibvolume{23}\bibnumber{(9)}\thinspace{}\textnormal{:
+  }\bibpages{12135\thinspace{}\textnormal{--}\thinspace{}12143}\@.
+
+\bibitem{chen2015experimental}
+\bibauthor{CHEN K\@, WANG S\@, CHEN S, et~al}\@. \bibtitle{Experimental
+  demonstration of simultaneous mode and polarization-division multiplexing
+  based on silicon densely packed waveguide array}\bibmark{[J]}\@.
+  \bibjournal{Optics letters}\@, \bibyear{2015}\@,
+  \bibvolume{40}\bibnumber{(20)}\thinspace{}\textnormal{:
+  }\bibpages{4655\thinspace{}\textnormal{--}\thinspace{}4658}\@.
+
+\bibitem{saleh1991fundamentals}
+\bibauthor{SALEH B~E\@, TEICH M~C\@, SALEH B~E}\@. \bibbooktitle{Fundamentals
+  of photonics\thinspace{}\textnormal{: }Vol~22}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Wiley New
+  York}\@, \bibyear{1991}\@.
+
+\bibitem{song2015high}
+\bibauthor{SONG W\@, GATDULA R\@, ABBASLOU S, et~al}\@. \bibtitle{High-density
+  waveguide superlattices with low crosstalk}\bibmark{[J]}\@.
+  \bibjournal{Nature communications}\@, \bibyear{2015}\@,
+  \bibvolume{6}\thinspace{}\textnormal{: }\bibpages{7027}\@.
+
+\bibitem{song2012chip}
+\bibauthor{SONG J\@, ZHOU X\@, LI Y-Z, et~al}\@. \bibtitle{On-chip spectrometer
+  with a circular-hole defect for optical sensing applications}\bibmark{[J]}\@.
+  \bibjournal{Optics Express}\@, \bibyear{2012}\@,
+  \bibvolume{20}\bibnumber{(17)}\thinspace{}\textnormal{:
+  }\bibpages{19226\thinspace{}\textnormal{--}\thinspace{}19231}\@.
+
+\bibitem{pommarede201716}
+\bibauthor{POMMAREDE X\@, HASSAN K\@, BILLONDEAU P, et~al}\@. \bibtitle{16 *
+  100 GHz Echelle Grating-Based Wavelength Multiplexer on Silicon-on-Insulator
+  Platform}\bibmark{[J]}\@. \bibjournal{IEEE Photonics Technology Letters}\@,
+  \bibyear{2017}\@, \bibvolume{29}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{493\thinspace{}\textnormal{--}\thinspace{}495}\@.
+
+\bibitem{lycett2013perfect}
+\bibauthor{LYCETT R~J\@, GALLAGHER D~F\@, BRULIS V~J}\@. \bibtitle{Perfect
+  chirped echelle grating wavelength multiplexor: design and
+  optimization}\bibmark{[J]}\@. \bibjournal{IEEE Photonics Journal}\@,
+  \bibyear{2013}\@, \bibvolume{5}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{2400123\thinspace{}\textnormal{--}\thinspace{}2400123}\@.
+
+\bibitem{horst2009silicon}
+\bibauthor{HORST F\@, GREEN W~M\@, OFFREIN B~J, et~al}\@.
+  \bibtitle{Silicon-on-insulator echelle grating WDM demultiplexers with two
+  stigmatic points}\bibmark{[J]}\@. \bibjournal{IEEE Photonics Technology
+  Letters}\@, \bibyear{2009}\@,
+  \bibvolume{21}\bibnumber{(23)}\thinspace{}\textnormal{:
+  }\bibpages{1743\thinspace{}\textnormal{--}\thinspace{}1745}\@.
+
+\bibitem{horst2008echelle}
+\bibauthor{HORST F\@, GREEN W~M\@, OFFREIN B, et~al}\@. \bibtitle{Echelle
+  grating WDM (de-) multiplexers in SOI technology, based on a design with two
+  stigmatic points}\bibmark{[C]} //\thinspace{}\bibbooktitle{Silicon Photonics
+  and Photonic Integrated Circuits\thinspace{}\textnormal{: }Vol~6996}\@.
+  \bibyear{2008}\thinspace{}\textnormal{: }\bibpages{69960R}\@.
+
+\bibitem{pathak2014silicon}
+\bibauthor{PATHAK S}\@. \bibtitle{Silicon nano-photonics based arrayed
+  waveguide gratings}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{Ghent University}\@,
+  \bibyear{2014}\@.
+
+\bibitem{piaszenskicontinuous}
+\bibauthor{PIASZENSKI G\@, SANABIA J\@, SCHMITS R, et~al}\@.
+  \bibtitle{Continuous electron beam lithography writing modes for optical
+  waveguide nanofabrication}\bibmark{[J]}\@. \bibjournal{Raith application
+  note, Raith GmbH}\@, \@.
+
+\bibitem{he1998monolithic}
+\bibauthor{HE J-J\@, LAMONTAGNE B\@, DEL{\^A}GE A, et~al}\@.
+  \bibtitle{Monolithic integrated wavelength demultiplexer based on a waveguide
+  Rowland circle grating in InGaAsP/lnP}\bibmark{[J]}\@. \bibjournal{Journal of
+  lightwave technology}\@, \bibyear{1998}\@,
+  \bibvolume{16}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{631\thinspace{}\textnormal{--}\thinspace{}638}\@.
+
+\bibitem{xie2018silicon}
+\bibauthor{XIE S\@, MENG Y\@, BLAND-HAWTHORN J, et~al}\@. \bibtitle{Silicon
+  Nitride/Silicon Dioxide Echelle Grating Spectrometer for Operation Near 1.55
+  $\mu$m}\bibmark{[J]}\@. \bibjournal{IEEE Photonics Journal}\@,
+  \bibyear{2018}\@, \bibvolume{10}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}7}\@.
+
+\bibitem{melati2014optical}
+\bibauthor{MELATI D\@, MORICHETTI F\@, GENTILI G~G, et~al}\@. \bibtitle{Optical
+  radiative crosstalk in integrated photonic waveguides}\bibmark{[J]}\@.
+  \bibjournal{Optics letters}\@, \bibyear{2014}\@,
+  \bibvolume{39}\bibnumber{(13)}\thinspace{}\textnormal{:
+  }\bibpages{3982\thinspace{}\textnormal{--}\thinspace{}3985}\@.
+
+\bibitem{vlasov2004losses}
+\bibauthor{VLASOV Y~A\@, MCNAB S~J}\@. \bibtitle{Losses in single-mode
+  silicon-on-insulator strip waveguides and bends}\bibmark{[J]}\@.
+  \bibjournal{Optics express}\@, \bibyear{2004}\@,
+  \bibvolume{12}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{1622\thinspace{}\textnormal{--}\thinspace{}1631}\@.
+
+\bibitem{ryckeboer2013silicon}
+\bibauthor{RYCKEBOER E\@, GASSENQ A\@, MUNEEB M, et~al}\@.
+  \bibtitle{Silicon-on-insulator spectrometers with integrated GaInAsSb
+  photodiodes for wide-band spectroscopy from 1510 to 2300 nm}\bibmark{[J]}\@.
+  \bibjournal{Optics express}\@, \bibyear{2013}\@,
+  \bibvolume{21}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{6101\thinspace{}\textnormal{--}\thinspace{}6108}\@.
+
+\end{thebibliography}
